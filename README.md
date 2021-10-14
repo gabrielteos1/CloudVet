@@ -9,3 +9,6 @@ Esta licencia permite a otros remezclar, adaptar y construir sobre su trabajo de
 
 # Enlaces
 https://trello.com/gabrielpalaciosespaciodetrabajode
+
+- Creacion del  logo
+https://studio.tailorbrands.com
