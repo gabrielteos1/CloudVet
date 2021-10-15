@@ -11,7 +11,9 @@ Esta licencia permite a otros remezclar, adaptar y construir sobre su trabajo de
 https://trello.com/gabrielpalaciosespaciodetrabajode
 
 - Creacion del  logo
-https://studio.tailorbrands.com
+https://studio.tailorbrands.
+- Programa de grabacion de video
+https://obsproject.com/es .
 
 # Autor
 - Gabriel Alejandro Teos Palacios
