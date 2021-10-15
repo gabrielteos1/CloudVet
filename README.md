@@ -8,6 +8,7 @@ CC BY-NC-SA
 Esta licencia permite a otros remezclar, adaptar y construir sobre su trabajo de forma no comercial, siempre que le otorguen crédito y licencian sus nuevas creaciones bajo los mismos términos.
 
 # Enlaces
+- Tableros de Trelllo
 https://trello.com/gabrielpalaciosespaciodetrabajode
 
 - Creacion del  logo
