@@ -12,3 +12,6 @@ https://trello.com/gabrielpalaciosespaciodetrabajode
 
 - Creacion del  logo
 https://studio.tailorbrands.com
+
+··#Autor
+- Gabriel Alejandro Teos Palacios
