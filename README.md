@@ -16,5 +16,12 @@ https://studio.tailorbrands.
 - Programa de grabacion de video
 https://obsproject.com/es .
 
+- Manual de usuario
+https://www.canva.com/design/DAEvYbcsGOg/xgSvmB0G_IwFhOn6ZrnY2w/view?utm_content=DAEvYbcsGOg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+
+-Manual Tecnico.
+https://www.canva.com/design/DAEvXwtqdGg/zFu_PbUVIqDGrnLrveSnCA/view?utm_content=DAEvXwtqdGg&utm_campaign=designshare&utm_medium=link&utm_source=homepage_design_menu
+
+
 # Autor
 - Gabriel Alejandro Teos Palacios
